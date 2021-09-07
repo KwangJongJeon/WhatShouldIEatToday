@@ -38,4 +38,4 @@ out/
 
 
 ### custom ###
-src/main/resources/index.html
+src/main/resources/static/index.html
